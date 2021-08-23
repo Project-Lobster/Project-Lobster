@@ -4,7 +4,7 @@ This is the Project Lobster Engineering public repo. The objective of this repo 
 ## Tech stack and ecosystem
 Our Tech assets and needs fall into two big categories:
 
-### An e-commerce storefront
+### An e-commerce storefront
 Our website https://projectlobster.com/ is both tasked of our international and national sales, as well as informing and convincing our national customers of to come to our stores.
 
 We use Shopify to abstract the most complicated parts of an e-commerce (payment processing, load balancing, deployment, working and clean CMS). We leverage their Themes to offer an (almost) fully customisable user experience, while leaving the heavy lifting and API management to Shopify.
@@ -29,7 +29,7 @@ But, as we soon found out that a pair of prescription lenses can have hundreds o
 The operational handling of our orders comes goes beyond any existing application and is taken care with a custom in-house solution:
 
 
-### A custom full-stack admin application
+### A custom full-stack admin application
 Managing an e-commerce is hard. Selling prescription glasses is also hard. Doing both at the same time with stores is quite hard.
 
 In order to offer the best, quickest, and seamless experience for our customers: we developed a custom application that allows us to keep track of what we sell, who do we sell it to, when, and how.
@@ -66,7 +66,7 @@ As well as making a custom component on our website so that customers can see wh
 
 
 
-## Workflows, and team values
+## Workflows and team values
 We work in cycles. In these cycles we assign work in the form of self-contained and (mostly) independent tickets. That have been throughly explained and redacted by either the Head of Technology, yourself, or another co-worker helped by a programmer. Cycles usually take two weeks for the most part. We use [Linear](https://linear.app/) to handle the tickets and discussions, Github to completely track the work we do, and [Basecamp](https://basecamp.com/) to communicate with the rest of the company.
 
 Which tickets to prioritise will be decided by the stake-holders. But each developer can choose which tickets to tackle themselves. 
