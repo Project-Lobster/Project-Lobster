@@ -1,6 +1,11 @@
 # Project Lobster engineering
 This is the Project Lobster Engineering public repo. The objective of this repo is to share public information to the world about *how* we do the tech in Project Lobster.
 
+## What is Project Lobster
+We started Project Lobster in 2018 to re-imagine the way we interact with vision products, building a vision care company from a holistic point of view. Project Lobster today is A Modern Optical Experience created for those who see the world differently, where we design, manufacture and sell directly to the end user handmade, 'in fashion' glasses and sunglasses through our e-commerce & physical stores.
+
+Technology plays a key role in our future as we keep narrowing the distance between online & offline customer experiences, delivering 'wow' moments along the customer journey and developing innovative tele-health solutions.
+
 ## Tech stack and ecosystem
 Our Tech assets and needs fall into two big categories:
 
